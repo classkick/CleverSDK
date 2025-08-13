@@ -1,5 +1,5 @@
 module CleverSDK {
-  umbrella "Headers"
+  umbrella "../Headers"
   export *
   module * { export * }
 }
